@@ -1,3 +1,8 @@
 # EC601
-test
-hello world
+Membership:
+Peixin Li
+Pandya Dishant
+Zhexi Zhang
+
+============================================================
+OpenCV sample test.
