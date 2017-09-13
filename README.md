@@ -3,7 +3,7 @@ Membership:
 
 Peixin Li
 
-Pandya Dishant
+Dishant Pandya
 
 Zhexi Zhang
 
