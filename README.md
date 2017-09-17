@@ -18,7 +18,7 @@ project process , such as to do list, doing list and done list ,through which wa
 perform more effective to finish their tasks, by applying Trello.
 
 In order to practice these skills, we choose OpenCV project using Python, the Github link we used is
-as follow: [https://github.com/opencv/opencv/tree/master/samples/python](url)
+as follows: [https://github.com/opencv/opencv/tree/master/samples/python]
 Here, we refer to a
 sample of face detection, what we have done is to edit code and applied it on the IDE after set up
 environment to use OpenCv library.
