@@ -8,10 +8,11 @@ Dishant Pandya : dishantp@bu.edu
 
 Zhexi Zhang : zzx0921@bu.edu
 
+
 # **## Project Description:**
 
 The main idea of this project is to learn how to use Github,Trello and other communication tools
-basing on the Agile software development system. We use Github to manage our code by editing
+based on the Agile software development system. We use Github to manage our code by editing
 comment, pulling request, and cloning or forking from other contributors. Besides, we update our
 project process , such as to do list, doing list and done list ,through which ways team members could
 perform more effective to finish their tasks, by applying Trello.
